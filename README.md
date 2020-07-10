@@ -1,1 +1,1 @@
-<img src="./assets/hello-world.gif" width="854" height="10">
+<img src="https://github.com/marcelovicentegc/marcelovicentegc/blob/master/assets/hello-world.gif" width="854" height="10">
