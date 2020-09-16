@@ -1,1 +1,4 @@
-<img src="https://github.com/marcelovicentegc/marcelovicentegc/blob/master/assets/hello-world.gif" width="854" height="10">
+<samp>
+Hi, there!  
+I'm Marcelo, a self-taught, quick learner and highly motivated full stack engineer. 
+</samp>
