@@ -1,15 +1,15 @@
 <p align="center">
   <samp>
     <a href="https://marcelovicentegc.com">marcelovicentegc.com</a> .
-    <a href="https://eutiveumsonho.com">eutiveumsonho.com</a>
+    <a href="https://eutiveumsonho.com">eutiveumsonho.com</a> .
+    <a href="https://linkedin.com/in/marcelovicentegc">linkedin</a>
   </samp>
 </p>
 
+Hi, I'm Marcelo! 🤗
 
-Hi, I'm Marcelo! 👋
+I'm an **experienced and versatile Software Engineer** at [VTEX](https://vtex.com), where I play a central role in evolving the VTEX Admin platform, and I founded and currently maintain [eutiveumsonho](https://eutiveumsonho.com), a unique social network centered around dreams (the ones we have while sleeping).
 
-I'm a versatile **Senior Software Engineer at [VTEX](https://vtex.com)**, where I play a pivotal role in evolving the VTEX Admin platform. Since joining VTEX in late 2020, I've been instrumental in developing innovative features and enhancing user experiences.
+I am used to build end-to-end software, from beautiful frontends to complex backend services and some infrastructure code.
 
-Before VTEX, I honed my skills building software for various sectors including fintech, edtech, and ecommerce. As a passionate problem-solver, I founded and currently maintain [eutiveumsonho](https://eutiveumsonho.com), a unique social network centered around dreams (the ones we have while sleeping).
-
-When I'm not delving into code or dreaming up the next big tech solution, you'll find me immersing myself in sports or spending quality time with friends.
+When I'm not writing code, you'll find me immersing myself in sports or spending quality time with friends.
