@@ -11,7 +11,7 @@
 
 ---
 
-I'm an **experienced and versatile Software Engineer** playing a central role evolving an enterprise ecommerce platform at [VTEX](https://vtex.com). I also founded and currently maintain a unique social network centered around dreams (the ones we have while sleeping), @eutiveumsonho.
+I'm an **experienced and versatile Software Engineer** playing a central role evolving an enterprise ecommerce platform at [VTEX](https://vtex.com). I also founded and currently maintain a unique social network centered around dreams (the ones we have while sleeping), [eutiveumsonho](https://github.com/eutiveumsonho).
 
 I am used to build end-to-end software, from beautiful frontends to complex backend services and some infrastructure code.
 
