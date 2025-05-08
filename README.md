@@ -11,8 +11,9 @@
 
 ---
 
-I'm a self-taught, **experienced and versatile Software Engineer** playing a central role evolving an enterprise ecommerce platform at [VTEX](https://vtex.com). I also founded and currently maintain a unique social network centered around dreams (the ones we have while sleeping), [eutiveumsonho](https://github.com/eutiveumsonho).
 
-I am used to build end-to-end software, from beautiful frontends to complex backend services and some infrastructure code.
+I'm a [**high agency**](https://www.highagency.com/) individual, and **experienced and versatile Software Engineer** playing a central role evolving an enterprise ecommerce platform at [**VTEX**](https://vtex.com) .
 
-When I'm not writing code, you'll find me immersing myself in sports or spending quality time with friends.
+I'm used to build end-to-end systems, from agentic systems to complex backend services, infrastructure and good looking front-ends. Visit my website at [**celo.chat**](https://celo.chat) to learn more about my skills and projects.
+
+When I'm not writing code or managing my own infrastructure, you'll find me immersing myself in sports or spending quality time with friends.
