@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://celo.chat">celo.chat</a> .
+    <a href="https://url4irl.com">url4irl.com</a> .
     <a href="https://eutiveumsonho.com">eutiveumsonho.com</a> .
     <a href="https://linkedin.com/in/marcelovicentegc">linkedin</a>
   </samp>
@@ -16,4 +17,4 @@ I'm a [**high agency**](https://www.highagency.com/) individual, and **experienc
 
 I'm used to build end-to-end systems, from agentic systems to complex backend services, infrastructure and good looking front-ends. Visit my website at [**celo.chat**](https://celo.chat) to learn more about my skills and projects.
 
-When I'm not writing code or managing my own infrastructure, you'll find me immersing myself in sports or spending quality time with friends.
+When I'm not writing code or managing my own infrastructure - [**where I offer some services**](https://url4irl.com) -, you'll find me immersing myself in sports or spending quality time with friends.
