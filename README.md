@@ -16,6 +16,6 @@
 
 I'm a [**high agency**](https://www.highagency.com/) individual, and **experienced and versatile Software Engineer** playing a central role evolving an enterprise ecommerce platform at [**VTEX**](https://vtex.com) .
 
-I'm used to build end-to-end systems, from agentic systems to complex backend services, infrastructure and good looking front-ends. Visit my website at [**celo.chat**](https://celo.chat) to learn more about my skills and projects.
+I'm used to build end-to-end systems, from agentic systems to complex backend services, infrastructure and good looking front-ends. Visit my website at [**marcelo.soy.chat**](https://marcelo.soy.chat) to learn more about my skills and projects.
 
 When I'm not writing code or managing my own infrastructure - [**where I offer some services**](https://url4irl.com) -, you'll find me immersing myself in sports or spending quality time with friends.
