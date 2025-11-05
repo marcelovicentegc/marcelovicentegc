@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://celo.chat">celo.chat</a> .
+    <a href="https://marcelo.soy.chat">marcelo.soy.chat</a> .
     <a href="https://url4irl.com">url4irl.com</a> .
     <a href="https://blog.url4irl.com">blog.url4irl.com</a> .
     <a href="https://eutiveumsonho.com">eutiveumsonho.com</a> .
