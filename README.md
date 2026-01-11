@@ -1,21 +1,22 @@
 <p align="center">
   <samp>
-    <a href="https://marcelo.soy.chat">marcelo.soy.chat</a> .
-    <a href="https://url4irl.com">url4irl.com</a> .
-    <a href="https://blog.url4irl.com">blog.url4irl.com</a> .
-    <a href="https://eutiveumsonho.com">eutiveumsonho.com</a> .
+    <a href="https://marcelovicentegc.com">marcelovicentegc.com</a> ·
+    <a href="https://marcelo.soy.chat">marcelo.soy.chat</a> ·
+    <a href="https://soy.chat">soy.chat</a> ·
+    <a href="https://eutiveumsonho.com">eutiveumsonho.com</a> ·
     <a href="https://linkedin.com/in/marcelovicentegc">linkedin</a>
   </samp>
 </p>
 
-<p align="center">Hi, I'm Marcelo 🤗</p>
+<p align="center">Hi, I'm Marcelo 👋</p>
 <p align="center"><i>"Master of none, but oftentimes better than a master of one"</i></p>
 
 ---
 
+I'm a [**high agency**](https://www.highagency.com/) individual — an experienced and versatile Software Engineer at [**VTEX**](https://vtex.com), where I play a critical role shaping the business face of the platform.
 
-I'm a [**high agency**](https://www.highagency.com/) individual, and **experienced and versatile Software Engineer** playing a central role evolving an enterprise ecommerce platform at [**VTEX**](https://vtex.com) .
+I build end-to-end systems: from agentic AI products to backend services, infrastructure, and polished front-ends. I'm also the founder of [**soy.chat**](https://soy.chat), a privacy-first SaaS for AI-powered chatbot websites.
 
-I'm used to build end-to-end systems, from agentic systems to complex backend services, infrastructure and good looking front-ends. Visit my website at [**marcelo.soy.chat**](https://marcelo.soy.chat) to learn more about my skills and projects.
+I care deeply about digital sovereignty — owning your data, your infrastructure, and your tools. That's why I self-host my projects on my own Kubernetes cluster, and why I run public services like a [**SearXNG instance**](https://search.url4irl.com) for anyone who values privacy over convenience.
 
-When I'm not writing code or managing my own infrastructure - [**where I offer some services**](https://url4irl.com) -, you'll find me immersing myself in sports or spending quality time with friends.
+Visit [**marcelovicentegc.com**](https://marcelovicentegc.com) for my portfolio or chat with an AI version of me at [**marcelo.soy.chat**](https://marcelo.soy.chat).
