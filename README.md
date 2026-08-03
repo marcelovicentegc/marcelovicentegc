@@ -13,10 +13,8 @@
 
 ---
 
-I'm a [**high agency**](https://www.highagency.com/) individual — an experienced and versatile Software Engineer at [**VTEX**](https://vtex.com), where I play a critical role shaping the business face of the platform.
+I'm a [**high agency**](https://www.highagency.com/) individual — an experienced and versatile Staff Software Engineer at [**VTEX**](https://vtex.com), where I play a critical role shaping the business face of the platform.
 
-I build end-to-end systems: from agentic AI products to backend services, infrastructure, and polished front-ends. I'm also the founder of [**soy.chat**](https://soy.chat), a privacy-first SaaS for AI-powered chatbot websites.
-
-I care deeply about digital sovereignty — owning your data, your infrastructure, and your tools. That's why I self-host my projects on my own Kubernetes cluster, and why I run public services like a [**SearXNG instance**](https://search.url4irl.com) for anyone who values privacy over convenience.
+I build end-to-end systems: from agentic AI products to backend services, infrastructure, and polished front-ends.
 
 Visit [**marcelovicentegc.com**](https://marcelovicentegc.com) for my portfolio or chat with an AI version of me at [**marcelo.soy.chat**](https://marcelo.soy.chat).
